@@ -1,0 +1,10 @@
+{
+    "name": "objTest",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "objTest.xml",
+    "author": "lloyad",
+    "minimum_firmware_version": 42
+}
